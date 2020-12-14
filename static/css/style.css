@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(216, 247, 236);
+}
+
+div {background-color: transparent;
+}
+
+.jumbotron {
+    background-image: url("../images/BellyButtonBacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
